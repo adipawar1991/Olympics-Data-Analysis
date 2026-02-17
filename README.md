@@ -71,6 +71,10 @@ Data is processed and merged for analytical insights and visualization.
 
 ---
 
+## 📷 Project Screenshot
+
+![Dashboard Screenshot](dashboard.png)
+
 ##  How to Run the Project Locally
 
 ### 1. Clone the Repository
